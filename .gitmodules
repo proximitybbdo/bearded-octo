@@ -1,0 +1,3 @@
+[submodule "assets/css"]
+	path = assets/css
+	url = https://github.com/rob-bar/moreorless.git
